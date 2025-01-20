@@ -59,7 +59,7 @@
     "plop": "^4.0.0",
     "prettier": "^3.1.1",
     "typescript": "^5.3.3",
-    "vitest": "^2.1.5"
+    "vitest": "^3.0.2"
   },
   "resolutions": {
     "@types/react": "npm:types-react@19.0.0-rc.1"
